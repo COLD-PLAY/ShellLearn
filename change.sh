@@ -1,0 +1,1 @@
+cp ~/Desktop/huaban/$1.jpg ~/Desktop/beauties/$1.jpg
